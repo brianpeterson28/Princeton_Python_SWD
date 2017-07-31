@@ -9,7 +9,7 @@ BORDER_LENGTH = 75
 
 def print_welcome_message():
     print("=" * BORDER_LENGTH)
-    print("THE WIND CHILL PROGRAM")
+    print("\t\t\tTHE WIND CHILL PROGRAM")
     print("=" * BORDER_LENGTH)
     print("")
     print("This program calculates the windchill given:")
