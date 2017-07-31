@@ -36,7 +36,5 @@ def main():
     wind_chill = calculate_wind_chill(temperature, wind_speed)
     print("The wind chill temperature is {:.2f}".format(wind_chill))
 
-    # T = 20, v = 30
-
 if __name__ == "__main__":
     main()
